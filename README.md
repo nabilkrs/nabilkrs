@@ -1,6 +1,6 @@
 ### Hey Guys👋 I'm Nabil
 
-## I'm a Full Stack Developer!!
+## I'm a Full Stack Developer
 
 - 🌱 I’m currently learning Python
 - 👯 I'm currently working on a project with my team
